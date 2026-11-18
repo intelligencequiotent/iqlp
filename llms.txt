@@ -1,0 +1,51 @@
+# Intelligence Quiotent
+
+> Intelligence Quiotent is an assessment and learner-management platform for schools, colleges, and corporate training teams. Institutions create tests, see what each learner knows, and assign the revision they need next.
+
+Intelligence Quiotent is one web platform with two connected halves: assessment and learning. Teachers build tests from a reusable question bank, run them online or on paper, and get graded results in minutes. They then organise courses, batches, and learners, and assign revision from those results.
+
+The AI suggests adaptive practice, step-by-step hints, draft questions, and feedback on written answers. Teachers review and approve what it creates. Learner data is not used to train third-party models. Final grading stays with the institution.
+
+It is for schools (unit tests, term exams, report cards), colleges and coaching centres (question banks, mock tests, batch analytics), and corporate training (skill certification, completion tracking, manager reports).
+
+Office: 2nd Floor, Ashok Nagar, Bengaluru, Karnataka 560025, India.
+Email: info@intelliquiotent.com
+The team replies within one working day. A demo is a 30-minute walkthrough tailored to the institution's curriculum.
+
+## Pages
+
+- [Home](https://www.intelliquiotent.com/): Product overview, how assessment and learning connect, who it is for, and FAQ.
+- [Contact](https://www.intelliquiotent.com/contact.html): Demo, pricing, and support enquiries.
+- [Privacy Policy](https://www.intelliquiotent.com/privacy.html): What data is collected, how AI features use it, learners under 18, and retention. Last updated 18 November 2026.
+- [Terms of Service](https://www.intelliquiotent.com/terms.html): Accounts, acceptable use, content ownership, AI output, fees, and governing law of India. Last updated 11 June 2021.
+
+## FAQ
+
+### What is Intelligence Quiotent?
+
+Intelligence Quiotent is an assessment and learner-management platform. Schools, colleges, and training teams create tests, track every learner's progress, and assign the right revision from one place.
+
+### Who is Intelligence Quiotent for?
+
+It is built for schools, for colleges and coaching centres, and for corporate training teams that need to certify skills and report completion.
+
+### How does assessment connect to learning?
+
+Teachers run a test from a question bank, online or on paper. They see mastery by topic for every learner and every batch, assign revision to the learners who need it, and measure again.
+
+### Does the AI replace teachers?
+
+No. The AI suggests practice, hints, questions, and feedback from each learner's results. Teachers review and approve everything it creates. Final grading stays with the institution.
+
+### Can tests be taken on paper?
+
+Yes. Tests run online or on paper. Objective questions can be auto-graded, and written answers can use rubrics with suggested scores for a teacher to approve.
+
+### How do I contact Intelligence Quiotent?
+
+Email info@intelliquiotent.com or use the contact page. The team replies within one working day. The office is on the 2nd Floor, Ashok Nagar, Bengaluru, Karnataka 560025.
+
+## Optional
+
+- [Sitemap](https://www.intelliquiotent.com/sitemap.xml)
+- [Robots](https://www.intelliquiotent.com/robots.txt)
